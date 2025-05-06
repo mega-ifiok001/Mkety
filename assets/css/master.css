@@ -1,46 +1,5 @@
 @charset "UTF-8";
 
-/************ TABLE OF CONTENTS ***************
-
-  01. VARIBALES CSS START
-  02. MIXIN CSS START
-  03. SPACE CSS START
-  04. ANIMATION CSS START
-  05. THEME CSS START
-  06. THEME DARK CSS START
-  07. BUTTON CSS START
-  08. TITLE CSS START
-  09. MENU CSS START
-  10. MODAL CSS START
-  11. CURSOR CSS START
-  12. HEADER CSS START
-  13. OFFCANVAS CSS START
-  14. HERO CSS START
-  15. SLIDER CSS START
-  16. ABOUT CSS START
-  17. SERVICE CSS START
-  18. COUNTER CSS START
-  19. WORKFLOW CSS START
-  20. BRAND CSS START
-  21. TESTIMONIAL CSS START
-  22. PORTFOLIO CSS START
-  23. PORTFOLIO 2 CSS START
-  24. BLOG CSS START
-  25. CTA CSS START
-  26. STORY CSS START
-  27. TEAM CSS START
-  28. SOLUTION CSS START
-  29. DEVELOPMENT CSS START
-  30. AWARD CSS START
-  31. FAQ CSS START
-  32. CAREER CSS START
-  33. FEATURE CSS START
-  34. CONTACT CSS START
-  35. PRICE CSS START
-  36. ERROR CSS START
-  37. HOME 5 CSS START
-  38. FOOTER CSS START
-**********************************************/
 /*----------------------------------------*/
 /*  01. VARIBALES CSS START
 /*----------------------------------------*/
@@ -79,7 +38,7 @@
   --gray-15: #C0C0C0;
   --gray-16: #939393;
   --pink: #FAEDE9;
-  --pink-2: #FF9776;
+  --pink-2: #330066;
   --pink-3: #F3ECEC;
   --pink-4: #FFFAF0;
   --pink-5: #E0E3CC;
@@ -20545,8 +20504,8 @@ img {
   --white-6: #d7d7d7;
   --white-7: #B7B7C5;
   --black-14: #323438;
-  --lime: #745EFF;
-  --lime-2: #5547F5;
+  --lime: #330066;
+  --lime-2: #330066;
   --gray-16: #6B6B6B;
   --gray-17: #F7F7FC;
   --gray-18: #999999;
@@ -22955,7 +22914,7 @@ main {
   padding: 17px 36px 16px;
   color: var(--white);
   border-radius: 5px;
-  background: var(--lime);
+  background: #330066;
   display: inline-block;
 }
 .btn-started i {
